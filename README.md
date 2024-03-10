@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danny, aka @dannysoft
 - 👀 I’m interested in lots of stuff; if I said computer programming would that be to obvious?  But music, sport, sci-fi; the usual stuff for programmer types. (live long and ...you know the rest)
-- 🌱 I’m currently always upping my Python knowledge.
+- 🌱 I’m currently always upping Appiann knowledge.
 - 📫 How to reach me daniel_stevenson@hotmail.com
 
 <!---
